@@ -1,0 +1,52 @@
+{
+    "Sach" : [
+        {
+            "id" : "1",
+            "ma_sach_ph42693" : "sach01",
+            "tieu_de_ph42693" : "Harry porter",
+            "tac_gia_ph42693" : "Alex",
+            "nam_xuat_ban_ph42693" : 2004,
+            "so_trang_ph42693" : 200,
+            "the_loai_ph42693" : "Cổ tích",
+            "So_luong_ph42693" : 120,
+            "hinh_anh_2024_ph42693" : "https://i.pinimg.com/236x/2b/14/da/2b14da6668dcc8e6456ab0ce9bcf1a5d.jpg",
+            "don_gia_2024_ph42693" : 95000
+        },
+        {
+            "id" : "2",
+            "ma_sach_ph42693" : "sach02",
+            "tieu_de_ph42693" : "Doraemon",
+            "tac_gia_ph42693" : "Akashi",
+            "nam_xuat_ban_ph42693" : 2001,
+            "so_trang_ph42693" : 100,
+            "the_loai_ph42693" : "Hoạt hình",
+            "So_luong_ph42693" : 40,
+            "hinh_anh_2024_ph42693" : "https://i.pinimg.com/236x/f7/aa/91/f7aa91ec120e833804ec0d38eb7dfe87.jpg",
+            "don_gia_2024_ph42693" : 18000
+        },
+        {
+            "id" : "3",
+            "ma_sach_ph42693" : "sach03",
+            "tieu_de_ph42693" : "Học lập trình",
+            "tac_gia_ph42693" : "Dũng",
+            "nam_xuat_ban_ph42693" : 2024,
+            "so_trang_ph42693" : 180,
+            "the_loai_ph42693" : "CNTT",
+            "So_luong_ph42693" : 10,
+            "hinh_anh_2024_ph42693" : "https://i.pinimg.com/236x/2b/14/da/2b14da6668dcc8e6456ab0ce9bcf1a5d.jpg",
+            "don_gia_2024_ph42693" : 195000
+        },
+        {
+            "id" : "4",
+            "ma_sach_ph42693" : "sach04",
+            "tieu_de_ph42693" : "Doraemon 2024",
+            "tac_gia_ph42693" : "Akashi",
+            "nam_xuat_ban_ph42693" : 2011,
+            "so_trang_ph42693" : 120,
+            "the_loai_ph42693" : "Hoạt hình",
+            "So_luong_ph42693" : 500,
+            "hinh_anh_2024_ph42693" : "https://i.pinimg.com/236x/f7/aa/91/f7aa91ec120e833804ec0d38eb7dfe87.jpg",
+            "don_gia_2024_ph42693" : 20000
+        }
+    ]
+}
